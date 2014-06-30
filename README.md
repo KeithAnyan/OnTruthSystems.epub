@@ -2,6 +2,11 @@
 
 A collection of essays by [Mencius Moldbug](http://unqualified-reservations.blogspot.com/)
 
+Download:
+[epub](http://keithanyan.github.io/OnTruthSystems.epub/OnTruthSystems.epub)
+[mobi](http://keithanyan.github.io/OnTruthSystems.epub/OnTruthSystems.mobi)
+[pdf](http://keithanyan.github.io/OnTruthSystems.epub/OnTruthSystems.pdf)
+
 Original Articles:
 * [Uberfact: the ultimate social verifier](http://unqualified-reservations.blogspot.com/2007/08/uberfact-ultimate-social-verifier.html)
 * [Revipedia: how to defeat the US government, reprise](http://unqualified-reservations.blogspot.com/2008/01/revipedia-how-to-defeat-us-government.html)
